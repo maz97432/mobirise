@@ -515,7 +515,7 @@
               "background-image": "url(@bg-value)"
             },
             "H1": {
-              "color": "#fb286c"
+              "color": "#f7ed4a"
             }
           },
           "_name": "header1",
