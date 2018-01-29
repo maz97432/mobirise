@@ -2164,7 +2164,9 @@ body {
   color: #ffffff !important;
 }
 .cid-qHF4txSUqQ {
-  background-image: url("../../../assets/images/background1.jpg");
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/copie-de-20170930-221346-2000x2296.jpg");
 }
 .cid-qHF4txSUqQ h1 {
   color: #616161;
@@ -2178,6 +2180,9 @@ body {
   font-style: italic;
 }
 .cid-qHF4txSUqQ H3 {
+  color: #ca9802;
+}
+.cid-qHF4txSUqQ H1 {
   color: #ca9802;
 }
 .cid-qHF5RcbOgA {
